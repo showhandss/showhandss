@@ -2,12 +2,12 @@
 This is Showhandss! </h1>
 
 <div align="center">
-    <img src="./src/web3-icp.gif" alt="Welcome!" width="500"/>
+    <img src="./src/web3-icp.gif" alt="Welcome!" width="700"/>
 </div>
 
-- 🔭 Becoming a business data📊 science researcher.
-- 🌱 Working on the relevant capabilities of Artificial intelligence🤖, Blockchian📦🔗, Web3️⃣, Quantum Machine⚛️.
-- 🚀 Highly regarded AIGC! Now the main research assistant is ChatGPT. We also use Bard, Wenxinyiyan, NotionAI, DeepAI.
+- 🔭 Doing researches on BIZ data science📊.
+- 🌱 Working on Artificial intelligence🤖, Blockchian📦🔗, Web3️⃣ and Quantum Machine⚛️.
+- 🚀 Highly regarded AIGC! My research assistant is **ChatGPT**🤖💬. I also use Bard, Wenxinyiyan, NotionAI, DeepAI to change life.
 - 🔨 Own projects in Python, R, Javascript, C#, React, Vue, SQL, C.
 - 😄 Pronouns: 🧙‍♂️**He/Him**
 - 😍 Hobby: Travel🗺(Once around the earth in 22 days), Photography📷, Excercise💪🏽, Entertainment🎰.
@@ -87,7 +87,7 @@ This is Showhandss! </h1>
  ![LightRoom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 </div>
 <div align="center">
-<img src="./src/drawing.gif" alt="Drawing" width="300"/>
+<img src="./src/drawing.gif" alt="Drawing" width="500"/>
 </div>
 
 <h3 align="center">💻 Workspace</h3>
