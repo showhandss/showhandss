@@ -1,5 +1,5 @@
-<h1 align="center"> 你好! Hello! おす! Bonjour! здравствй! 👋 </h1>
-<h1 align="center"> This is Showhandss! </h1>
+<h1 align="center"> 你好! Hello! おす! Bonjour! здравствй! 👋 
+This is Showhandss! </h1>
 
 - 🔭 Becoming a business data📊 science researcher.
 - 🌱 Working on the relevant capabilities of Artificial intelligence🤖, Blockchian📦🔗, Web3️⃣, Quantum Machine⚛️.
@@ -23,7 +23,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&Color=ffdd54) 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)  
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 </div>
@@ -68,7 +68,7 @@
 <div align="center">
 
 ![Intel](https://img.shields.io/badge/Intel-Core_i7_8th-0071C5?style=for-the-badge&logo=intel&logoColor=white) 
-![Nvidia_gtx1070](https://img.shields.io/badge/NVIDIA-GTX070-76B900?style=for-the-badge&logo=nvidia&logoColor=white) 
+![Nvidia_gtx1070](https://img.shields.io/badge/NVIDIA-GTX1070-76B900?style=for-the-badge&logo=nvidia&logoColor=white) 
 ![ALIBABA](https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white) 
 ![AMAZON](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 </div>
@@ -81,3 +81,21 @@
 ![VIM](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white) 
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 </div>
+
+## My Github Stats 📊 
+
+<p align="center">
+  <br/>
+    <a href="https://github.com/showhandss/github-readme-stats"><img alt="Showhandss's Github Stats" src="https://github-readme-stats.vercel.app/api?username=showhandss&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/showhandss/github-readme-stats"><img alt="Showhandss's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=showhandss&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  </p>
+
+<br/>
+<br/>
+
+### Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=showhandss">
+</a>
+<a href="https://github.com/showhandss?tab=followers"><img src="https://img.shields.io/github/followers/showhandss?label=Followers&style=social" alt="GitHub Badge"></a>
