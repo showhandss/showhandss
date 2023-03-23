@@ -76,7 +76,7 @@ This is Showhandss! </h1>
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 </div>
 <div align="center">
-<img src="./src/ML7C.gif" alt="Trans" width="300"/>
+<img src="./src/ML7C.gif" alt="Trans" width="500"/>
 </div>
 
 <h3 align="center">🎨 Design</h3>
