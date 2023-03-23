@@ -25,7 +25,6 @@ This is Showhandss! </h1>
 
 <h3 align="center">🗪 Languages</h3>
 <div align="center">
-<img src="./src/program.gif" alt="Program Language" width="500"/>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![R](https://img.shields.io/badge/-R-orange?style=for-the-badge&logo=r&Color=ffdd54) 
@@ -33,17 +32,19 @@ This is Showhandss! </h1>
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)  
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+<img src="./src/program.gif" alt="Program Language" width="500"/>
 </div>
 
 <h3 align="center">🔗 BlockChain & 🔑 CryptoCurrency & 🌐 Web 3</h3>
 <div align="center">
-<img src="./src/Spend-Dogecoin.gif" alt="Dogecoin" width="500"/>
+
 
 ![Binance](https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white) 
 ![Dogecoin](https://img.shields.io/badge/dogecoin-C2A633?style=for-the-badge&logo=dogecoin&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) 
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) 
+<img src="./src/Spend-Dogecoin.gif" alt="Dogecoin" width="500"/>
 </div>
 
 <h3 align="center">📑 Web Development</h3>
