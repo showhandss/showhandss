@@ -31,8 +31,8 @@ This is Showhandss! </h1>
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)  
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-<img src="./src/program.gif" alt="Program Language" width="500"/>
+
+<img src="./src/program.gif" alt="Program Language" width="300"/>
 </div>
 
 <h3 align="center">🔗 BlockChain & 🔑 CryptoCurrency & 🌐 Web 3</h3>
@@ -72,6 +72,9 @@ This is Showhandss! </h1>
 ![Pr](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
  ![LightRoom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 </div>
+<div align="center">
+<img src="./src/drawing.gif" alt="Drawing" width="300"/>
+</div>
 
 <h3 align="center">💻 Workspace</h3>
 <div align="center">
@@ -81,7 +84,6 @@ This is Showhandss! </h1>
 ![ALIBABA](https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white) 
 ![AMAZON](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 </div>
-
 <div align="center">
 
 ![VSC](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) 
@@ -90,7 +92,9 @@ This is Showhandss! </h1>
 ![VIM](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white) 
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 </div>
-
+<div align="center">
+    <img src="./src/desk.gif" alt="WorkSpace" width="700"/>
+</div>
 ## My Github Stats 📊 
 
 <p align="center">
@@ -103,8 +107,8 @@ This is Showhandss! </h1>
 <br/>
 <br/>
 
-### Views and Followers
-<!-- <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<!-- ### Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=showhandss">
 </a>
 <a href="https://github.com/showhandss?tab=followers"><img src="https://img.shields.io/github/followers/showhandss?label=Followers&style=social" alt="GitHub Badge"></a> -->
