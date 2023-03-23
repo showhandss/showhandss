@@ -1,11 +1,15 @@
 <h1 align="center"> 你好! Hello! おす! Bonjour! здравствй! 👋 
 This is Showhandss! </h1>
 
+<img src="./src/web3-icp.gif" alt="Welcome!" width="500"/>
+
 - 🔭 Becoming a business data📊 science researcher.
 - 🌱 Working on the relevant capabilities of Artificial intelligence🤖, Blockchian📦🔗, Web3️⃣, Quantum Machine⚛️.
+- 🚀 Highly regarded AIGC! Now the main research assistant is ChatGPT. We also use Bard, Wenxinyiyan, NotionAI, DeepAI.
 - 🔨 Own projects in Python, R, Javascript, C#, React, Vue, SQL, C.
 - 😄 Pronouns: 🧙‍♂️**He/Him**
-- 😋 Hobby: Travel🗺, Photography📷, Excercise💪🏽, Entertainment🎰.
+- 😍 Hobby: Travel🗺(Once around the earth in 22 days), Photography📷, Excercise💪🏽, Entertainment🎰.
+- 
 
 <h3 align="center">☀️ Preferred OS</h3>
 <div align="center">
@@ -21,7 +25,7 @@ This is Showhandss! </h1>
 <div align="center">
     
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&Color=ffdd54) 
+![R](https://img.shields.io/badge/-R-orange?style=for-the-badge&logo=r&Color=ffdd54) 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)  
@@ -95,7 +99,7 @@ This is Showhandss! </h1>
 <br/>
 
 ### Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<!-- <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=showhandss">
 </a>
-<a href="https://github.com/showhandss?tab=followers"><img src="https://img.shields.io/github/followers/showhandss?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/showhandss?tab=followers"><img src="https://img.shields.io/github/followers/showhandss?label=Followers&style=social" alt="GitHub Badge"></a> -->
