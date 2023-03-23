@@ -1,7 +1,9 @@
 <h1 align="center"> 你好! Hello! おす! Bonjour! здравствй! 👋 
 This is Showhandss! </h1>
 
-<img src="./src/web3-icp.gif" alt="Welcome!" width="500"/>
+<div align="center">
+    <img src="./src/web3-icp.gif" alt="Welcome!" width="500"/>
+</div>
 
 - 🔭 Becoming a business data📊 science researcher.
 - 🌱 Working on the relevant capabilities of Artificial intelligence🤖, Blockchian📦🔗, Web3️⃣, Quantum Machine⚛️.
@@ -9,7 +11,7 @@ This is Showhandss! </h1>
 - 🔨 Own projects in Python, R, Javascript, C#, React, Vue, SQL, C.
 - 😄 Pronouns: 🧙‍♂️**He/Him**
 - 😍 Hobby: Travel🗺(Once around the earth in 22 days), Photography📷, Excercise💪🏽, Entertainment🎰.
-- 
+- 🎯 Recent Goal: **Find a JOB**, you can reach me: [showhandss@gmail.com](showhandss@gmail.com)
 
 <h3 align="center">☀️ Preferred OS</h3>
 <div align="center">
@@ -23,7 +25,8 @@ This is Showhandss! </h1>
 
 <h3 align="center">🗪 Languages</h3>
 <div align="center">
-    
+<img src="./src/program.gif" alt="Program Language" width="500"/>
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![R](https://img.shields.io/badge/-R-orange?style=for-the-badge&logo=r&Color=ffdd54) 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) 
@@ -34,6 +37,7 @@ This is Showhandss! </h1>
 
 <h3 align="center">🔗 BlockChain & 🔑 CryptoCurrency & 🌐 Web 3</h3>
 <div align="center">
+<img src="./src/Spend-Dogecoin.gif" alt="Dogecoin" width="500"/>
 
 ![Binance](https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white) 
 ![Dogecoin](https://img.shields.io/badge/dogecoin-C2A633?style=for-the-badge&logo=dogecoin&logoColor=white)
