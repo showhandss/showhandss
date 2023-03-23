@@ -22,28 +22,35 @@ This is Showhandss! </h1>
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) 
 ![MACOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 </div>
+<div align="center">
+<img src="./src/RYcj.gif" alt="system" width="500"/>
+</div>
 
 <h3 align="center">🗪 Languages</h3>
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![R](https://img.shields.io/badge/-R-orange?style=for-the-badge&logo=r&Color=ffdd54) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/-R-orange?style=for-the-badge&logo=r&Color=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)  
-
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+</div>
+<div align="center">
 <img src="./src/program.gif" alt="Program Language" width="300"/>
 </div>
 
 <h3 align="center">🔗 BlockChain & 🔑 CryptoCurrency & 🌐 Web 3</h3>
 <div align="center">
 
-
 ![Binance](https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white) 
 ![Dogecoin](https://img.shields.io/badge/dogecoin-C2A633?style=for-the-badge&logo=dogecoin&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) 
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) 
+</div>
+<div align="center">
 <img src="./src/Spend-Dogecoin.gif" alt="Dogecoin" width="500"/>
 </div>
 
@@ -56,6 +63,10 @@ This is Showhandss! </h1>
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+</div>
+<div align="center">
+<img src="./src/website.gif" alt="Website" width="500"/>
 </div>
 
 <h3 align="center">💾 Databases</h3>
@@ -63,6 +74,9 @@ This is Showhandss! </h1>
     
 ![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+</div>
+<div align="center">
+<img src="./src/ML7C.gif" alt="Trans" width="300"/>
 </div>
 
 <h3 align="center">🎨 Design</h3>
@@ -95,6 +109,7 @@ This is Showhandss! </h1>
 <div align="center">
     <img src="./src/desk.gif" alt="WorkSpace" width="700"/>
 </div>
+
 ## My Github Stats 📊 
 
 <p align="center">
@@ -106,6 +121,9 @@ This is Showhandss! </h1>
 
 <br/>
 <br/>
+<div align="center">
+    <img src="./src/snowmountain.gif" alt="Snowmountain" width="700"/>
+</div>
 
 <!-- ### Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
