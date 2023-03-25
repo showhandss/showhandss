@@ -7,11 +7,11 @@ Showhandss here! </h1>
 
 Hello, this is showhandss. I'm glad you found my introduction, and I hope you can read it.
 - 🔭 Doing researches on BIZ data science📊.
-- 🌱 Working on Artificial intelligence🤖, Blockchian📦🔗, Web3️⃣ and Quantum Machine⚛️.
+- 🔨 Have Artificial intelligence🤖, Blockchian📦🔗, Web3️⃣ and Quantum Machine⚛️ related project experience.
 - 🚀 Highly regarded AIGC! **ChatGPT**🤖💬 is my research assistant. I also change life with Bard, Wenxinyiyan, NotionAI, DeepAI.
-- 🔨 Own projects in Python, R, Javascript, C#, React, Vue, SQL, C.
+- 🌱 Familiar with Python, R, Javascript, C#, React, Vue, SQL, C.
 - 😄 Pronouns: 🧙‍♂️**He/Him**
-- 😍 Hobby: Travel🗺(Once around the earth in 22 days), Photography📷, Excercise💪🏽, Entertainment🎰.
+- 😍 Hobby: Travel🗺(Around the earth🌎 in 22 days), Photography📷, Excercise💪🏽, Entertainment🎰.
 - 🎯 Recent Goal: **Find a JOB**, you can reach me: [showhandss@gmail.com](showhandss@gmail.com)
 
 ## ☀️ Preferred OS
