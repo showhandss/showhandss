@@ -1,19 +1,21 @@
 <h1 align="center"> 你好! Hello! おす! Bonjour! здравствй! 👋 
-This is Showhandss! </h1>
+Showhandss here! </h1>
 
 <div align="center">
     <img src="./src/web3-icp.gif" alt="Welcome!" width="700"/>
 </div>
 
+Hello, this is showhandss. I'm glad you found my introduction, and I hope you can read it.
 - 🔭 Doing researches on BIZ data science📊.
 - 🌱 Working on Artificial intelligence🤖, Blockchian📦🔗, Web3️⃣ and Quantum Machine⚛️.
-- 🚀 Highly regarded AIGC! My research assistant is **ChatGPT**🤖💬. I also use Bard, Wenxinyiyan, NotionAI, DeepAI to change life.
+- 🚀 Highly regarded AIGC! **ChatGPT**🤖💬 is my research assistant. I also change life with Bard, Wenxinyiyan, NotionAI, DeepAI.
 - 🔨 Own projects in Python, R, Javascript, C#, React, Vue, SQL, C.
 - 😄 Pronouns: 🧙‍♂️**He/Him**
 - 😍 Hobby: Travel🗺(Once around the earth in 22 days), Photography📷, Excercise💪🏽, Entertainment🎰.
 - 🎯 Recent Goal: **Find a JOB**, you can reach me: [showhandss@gmail.com](showhandss@gmail.com)
 
-<h3 align="center">☀️ Preferred OS</h3>
+## ☀️ Preferred OS
+<!-- <h2 align="center">☀️ Preferred OS</h2> -->
 <div align="center">
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) 
@@ -26,7 +28,8 @@ This is Showhandss! </h1>
 <img src="./src/RYcj.gif" alt="system" width="500"/>
 </div>
 
-<h3 align="center">🗪 Languages</h3>
+## 💬 Languages
+<!-- <h2 align="center">💬 Languages</h2> -->
 <div align="center">
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -41,7 +44,8 @@ This is Showhandss! </h1>
 <img src="./src/program.gif" alt="Program Language" width="300"/>
 </div>
 
-<h3 align="center">🔗 BlockChain & 🔑 CryptoCurrency & 🌐 Web 3</h3>
+## 🔗 BlockChain & 🔑 CryptoCurrency & 🌐 Web3
+<!-- <h2 align="center">🔗 BlockChain & 🔑 CryptoCurrency & 🌐 Web3</h2> -->
 <div align="center">
 
 ![Binance](https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white) 
@@ -54,7 +58,8 @@ This is Showhandss! </h1>
 <img src="./src/Spend-Dogecoin.gif" alt="Dogecoin" width="500"/>
 </div>
 
-<h3 align="center">📑 Web Development</h3>
+## 📑 Web Development
+<!-- <h2 align="center">📑 Web Development</h2> -->
 <div align="center">
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
@@ -69,7 +74,8 @@ This is Showhandss! </h1>
 <img src="./src/website.gif" alt="Website" width="500"/>
 </div>
 
-<h3 align="center">💾 Databases</h3>
+## 💾 Databases
+<!-- <h2 align="center">💾 Databases</h2> -->
 <div align="center">
     
 ![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
@@ -79,7 +85,8 @@ This is Showhandss! </h1>
 <img src="./src/ML7C.gif" alt="Trans" width="500"/>
 </div>
 
-<h3 align="center">🎨 Design</h3>
+## 🎨 Design
+<!-- <h2 align="center">🎨 Design</h2> -->
 <div align="center">
 
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black) 
@@ -90,7 +97,8 @@ This is Showhandss! </h1>
 <img src="./src/drawing.gif" alt="Drawing" width="500"/>
 </div>
 
-<h3 align="center">💻 Workspace</h3>
+## 💻 Workspace
+<!-- <h2 align="center">💻 Workspace</h2> -->
 <div align="center">
 
 ![Intel](https://img.shields.io/badge/Intel-Core_i7_8th-0071C5?style=for-the-badge&logo=intel&logoColor=white) 
